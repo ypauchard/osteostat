@@ -1,4 +1,5 @@
 # Osteostat 2026
+[![DOI](https://zenodo.org/badge/724765298.svg)](https://doi.org/10.5281/zenodo.24166004)
 ## Installation
 Use [miniconda](https://docs.conda.io/en/latest/miniconda.html) and install packages in a conda environment with versions used in paper:
 ```
